@@ -11,7 +11,7 @@ console.log(true); //boolean
 
 
 var idade = 32 // válida para o corpo inteiro
-console.log("a sua idadew é" , idade +5)
+console.log("a sua idade é" , idade +5)
 
 
 let idade = 28 // função especifica, que voce pode mudar
