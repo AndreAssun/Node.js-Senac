@@ -10,7 +10,7 @@ var media = (nota1 + nota2 + nota3) / 3;
 
 if (media < 3) {
   console.log(`sua media é ${media.toFixed(2)} voce foi Reprovado`);
-} else if (media >= 3 && media <= 6) {
+} else if (media >= 3 && media <= 6) {  //operador &&, também conhecido como "AND" (e)
   console.log(`sua media é ${media.toFixed(2)} voce esta de Recuperação`);
 }
  else {
