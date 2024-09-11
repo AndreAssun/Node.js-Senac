@@ -16,5 +16,8 @@ Bem-vindo ao repositório do curso SENAC de Backend com Node.js! 🎉 Este repos
 - 📋 Interpretar e implementar os requisitos das pessoas usuárias.
 
 
+## Estrutura das Pastas 🗂️
+No GitHub, os materiais estão organizados em pastas correspondentes aos dias de aula ou a projetos específicos. Cada pasta agrupa todos os recursos e documentos pertinentes a um dia específico, tornando a busca e o gerenciamento do conteúdo do curso mais eficientes.
+
 
 
