@@ -1,10 +1,8 @@
 # 🚀 Curso de Backend com Node.js
 
-Bem-vindo ao repositório do curso de Backend com Node.js! 🎉 Este repositório contém materiais e exemplos que irão ajudá-lo a dominar o desenvolvimento backend com Node.js.
+Bem-vindo ao repositório do curso SENAC de Backend com Node.js! 🎉 Este repositório contém materiais, exercícios e exemplos para o desenvolvimento backend com Node.js.
 
-## 🎯 Objetivo do Curso
-
-Neste curso, você aprenderá a:
+## 🎯 Objetivos do Curso
 
 - 🛠️ Configurar o ambiente de desenvolvimento back-end com Node.js.
 - 🌐 Criar serviços web seguindo os padrões de arquitetura REST.
@@ -62,11 +60,4 @@ O curso é dividido em módulos que cobrem os seguintes tópicos:
 
 - Técnicas para interpretar e implementar requisitos de pessoas usuárias.
 
-## 🚀 Instruções de Configuração
 
-Para começar a trabalhar com o código fornecido neste repositório, siga as instruções abaixo:
-
-1. **Clone o Repositório** 🌟
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
-   cd repositorio
