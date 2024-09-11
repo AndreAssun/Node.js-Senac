@@ -1,5 +1,4 @@
-🎯 Objetivo do Curso
-Neste curso, você aprenderá a:
+🎯 Objetivos do Curso:
 
 🛠️ Configurar o ambiente de desenvolvimento back-end com Node.js.
 🌐 Criar serviços web seguindo os padrões de arquitetura REST.
@@ -12,6 +11,7 @@ Neste curso, você aprenderá a:
 🌟 Utilizar a arquitetura Restful, o protocolo HTTP e o framework Express.
 📋 Interpretar e implementar os requisitos das pessoas usuárias.
 📚 Estrutura do Curso
+
 O curso é dividido em módulos que cobrem os seguintes tópicos:
 
 1. Configuração do Ambiente de Desenvolvimento 🛠️
