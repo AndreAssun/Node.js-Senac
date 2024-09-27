@@ -19,5 +19,10 @@ Bem-vindo ao repositório do curso SENAC de Backend com Node.js! 🎉 Este repos
 ## Estrutura das Pastas 🗂️
 No GitHub, os materiais estão organizados em pastas correspondentes aos dias de aula ou a projetos específicos. Cada pasta agrupa todos os recursos e documentos pertinentes a um dia específico, tornando a busca e o gerenciamento do conteúdo do curso mais eficientes.
 
+## Desafios  🌐
+Desafios de Node.js propostos pelo professor Rodrigo Ruiz Campos, do qual farão parte da avaliação final do curso.
+
+
+
 
 
