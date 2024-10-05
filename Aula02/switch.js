@@ -1,4 +1,4 @@
-const numero = 8;
+const numero = 2;
 switch (numero) {
   case 1:
     console.log("Segunda-feira");

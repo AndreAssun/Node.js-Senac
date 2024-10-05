@@ -19,3 +19,7 @@ idade = 42
 console.log("a sua idade é: " , idade + 5)
 
 const idade = 28 // não consigo alterar o valor
+
+
+
+///node "funcoes.js" (nome do arquivo) para rodar o codigo
