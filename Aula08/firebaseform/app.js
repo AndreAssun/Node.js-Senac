@@ -38,13 +38,16 @@ app.post('/submit', (req, res) => {
     const nome = req.body.nome
     const idade = req.body.idade
 
+    //validação de dados
+    if (!id || !nome || !idade) {
+        return res.status(400).send('Campos ID e Nome são obrigatórios');
+    }
 
-    
      // Salva os dados no Firebase
 
-    db.ref('users/' + id).set({ nome, idade})
-    .then(() =>res.send('Dados salvos com sucesso no firebase !'))
-    .catch(error => res.status(500).send('Erro ao salvar dados: ' + error.message))
+    db.ref('users/' + id).set({ nome, idade })
+    .then(() => res.send('Dados salvos com sucesso no firebase !'))
+    .catch(error => res.status(500).send('Erro ao salvar dados: ' + error.message));
 })
 
 
